@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- SPACE HEADER -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=AKSHAT%20TYAGI&fontSize=55&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=EXPLORING%20THE%20UNIVERSE%20OF%20CODE&descSize=16&descAlignY=60](https://i.pinimg.com/originals/e2/8d/61/e28d61b0ce1b686bbd9c19b98912101f.gif)" width="100%"/>
+<img src="<div style="width:100%;height:0;padding-bottom:47%;position:relative;"><iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI"></a></p>" width="100%"/>
 
 <!-- ANIMATED TERMINAL -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=%3E+Initializing+space+terminal...;%3E+Welcome+to+my+GitHub+universe;%3E+Computer+Science+Student;%3E+Dreaming+in+code+%F0%9F%9A%80;%3E+System+Status%3A+ONLINE" />
